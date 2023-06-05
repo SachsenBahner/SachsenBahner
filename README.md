@@ -36,11 +36,11 @@ Aside from the Vier-Gewinnt project, I am also involved in 3D printing model tra
 - JavaScript
 
 
-{::comment}
-## Contact
+<!-- ## Contact
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can connect with me via:
 
 Email: john@example.com
 LinkedIn: John Doe
-{:/comment}
+-->
+
 Thank you for visiting my profile! Have a great day!
