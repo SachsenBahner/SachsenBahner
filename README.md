@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I am a student pursuing a bachelor degree in Elect
 
 ## About Me
 
-🎓 Studying Electrical Engineering at HKA Karlsruhe
-💻 Passionate about image processing and Python
-🔬 Exploring the intersection of hardware and machine learning
-🤝 Collaborating with a fellow student on the Vier-Gewinnt project
-🚂 Interested in 3D printing and designing custom circuits for model railways
+🎓 Studying Electrical Engineering at HKA Karlsruhe  
+💻 Passionate about image processing and Python  
+🔬 Exploring the intersection of hardware and machine learning  
+🤝 Collaborating with a fellow student on the Vier-Gewinnt project  
+🚂 Interested in 3D printing and designing custom circuits for model railways  
 🌱 Constantly learning and seeking new challenges
 
 ## Projects
