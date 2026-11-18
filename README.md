@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a student pursuing a bachelor degree in Elect
 
 ## About Me
 
-🎓 Studying Electrical Engineering at HKA Karlsruhe  
+🎓 Electrical Engineering at HKA Karlsruhe  
 💻 Passionate about image processing and Python  
 🔬 Exploring the intersection of hardware and machine learning  
 🤝 Collaborating with a fellow student on the Vier-Gewinnt project  
@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I am a student pursuing a bachelor degree in Elect
 
 ## Projects
 
-### Vier-Gewinnt game with ESP32-C3 and LED Matrix
-In this project, my fellow student and I are developing a Vier-Gewinnt (Four in a Row) game using an ESP32-C3 microcontroller and an LED matrix. We are implementing machine learning techniques with MicroPython to make the game more intelligent and challenging. The goal is to create an interactive and visually appealing gaming experience.
+### Vier-Gewinnt game with ESP32-S3 and LED Matrix
+In this project, my fellow student and I are developing a Vier-Gewinnt (Four in a Row) game using an ESP32-S3 microcontroller and an LED matrix. We are implementing machine learning techniques with MicroPython to make the game more intelligent and challenging. The goal is to create an interactive and visually appealing gaming experience.
 
 Technologies Used
 - ESP32-C3 microcontroller
